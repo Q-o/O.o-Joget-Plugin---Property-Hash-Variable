@@ -7,7 +7,7 @@ Property Hash Variable Plugin allowed you to retrieve a property value from any 
 
 Release license:
 ----------------
-LGPL v3 (http://www.gnu.org/licenses/lgpl-3.0.html)
+GPL v3 (http://www.gnu.org/licenses/gpl-3.0.html)
 
 Supported Joget Workflow versions:
 ----------------------------------
